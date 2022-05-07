@@ -1,0 +1,25 @@
+.container{
+    background-color: white;
+    overflow: hidden;
+    margin-top: 0;
+    min-height: 1000px;
+}
+
+.cont{
+    margin-top: 50px;
+}
+
+.img{
+    float:left;
+    margin-left: 550px;
+    margin-right: 100px;
+}
+
+.disc{
+
+    overflow: hidden;
+}
+
+.edit{
+    margin-left:10px !important;
+}
